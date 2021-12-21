@@ -3,7 +3,7 @@ from numbers_parser import Document
 
 
 def main():
-    print("hello, world\n")
+    print("Hello, World!\n")    # Original = hello, world
 
 
 if __name__ == '__main__':
